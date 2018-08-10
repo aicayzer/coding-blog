@@ -1,0 +1,10 @@
+console.log("Welcome to the site");
+console.log("(….\..Coding../….)");
+console.log(".\….\…….……/…./");
+console.log("..\….\………../…./");
+console.log("…\…/;¯.|.¯`\…. /");
+console.log("…/… |….|…. (¯`\|");
+console.log("..|…..|;¯.|;¯.|\.. ..\|");
+console.log("..\……` ¯..¯ ;……/");
+console.log("…\.");
+console.log("They keyboard art is not working yet.....");
