@@ -50,3 +50,13 @@ hr{
   text-decoration: none;
 
 }
+
+#nb {
+  color:
+}
+
+#main_line {
+    border: 0;
+    height: 0;
+    border-top: 4px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 4px solid rgba(255, 255, 255, 0.3);
