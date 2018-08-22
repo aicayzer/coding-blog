@@ -9,6 +9,10 @@ body {
   max-width: 900px;
 }
 
+h1 {
+font-size: 2.4em;
+}
+
 .post {
   margin-bottom: 20px;
 }
@@ -26,7 +30,7 @@ body {
 
 h2 {
   font-size: 2.0rem;
-  font-weight: bold;
+  font-weight: 700;
   color: #2c3e50;
 }
 
@@ -52,11 +56,25 @@ hr{
 }
 
 #nb {
-  color:
+  color: #B02333;
+  text-align: center;
+  font-size: 0.8em;
+  text-transform: uppercase;
+  /* font-weight: 700; */
 }
 
 #main_line {
     border: 0;
     height: 0;
-    border-top: 4px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 4px solid rgba(255, 255, 255, 0.3);
+    border-top: 6px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 6px solid rgba(255, 255, 255, 0.3);
+  }
+
+#preface {
+      margin-top: 10px;
+      margin-bottom: 15px;
+    }
+    
+/* html{
+  background-color: #efefef;
+} */
